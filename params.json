@@ -1,0 +1,6 @@
+{
+  "name": "Beg-app-dev-w-parse-phonegap",
+  "tagline": "Source code for 'Beginning App Development with Parse and PhoneGap' by Stephan Alber and Wilkins Fernandez",
+  "body": "#Apress Source Code\r\n\r\nThis repository accompanies [*Beginning App Development with Parse and PhoneGap*](http://www.apress.com/9781484202364) by Stephan Alber and Wilkins Fernandez (Apress, 2015).\r\n\r\n![Cover image](9781484202364.jpg)\r\n\r\nDownload the files as a zip using the green button, or clone the repository to your machine using Git.\r\n\r\n##Releases\r\n\r\nRelease v1.0 corresponds to the code in the published book, without corrections or updates.\r\n\r\n##Contributions\r\n\r\nSee the file Contributing.md for more information on how you can contribute to this repository.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
